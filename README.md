@@ -7,7 +7,7 @@ A Power BI dashboard visualizing global Covid-19 data (2020), with insights on c
   <img src="Covid_snapshot.png" alt="Covid Dashboard Preview" width="600">
 </p>
 
-## 📌 Project Overview
+## 📌 Project Overview 
 This project analyzes the global impact of Covid-19 in 2020, highlighting confirmed cases, deaths, recoveries, and regional trends.  
 The interactive dashboard was built in **Power BI** to visualize patterns and support data-driven insights.
 
